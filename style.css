@@ -17,10 +17,12 @@
         text-decoration: none;
         height: 23px;
         padding: 10px 24% 10px 24%;
+        font-size: 14px;
     }
 
     header .pastoi{
         padding-left: unset;
+        font-size: 21px;
     }
 
     header div {
