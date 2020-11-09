@@ -1,45 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
-    * {
-        margin: 0;
-        padding: 0;
-    }
-
-    body {
-        height: 100%;
-        width: 100%;
-        font-family: "SF Pro Text",sans-serif;
-    }
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "SF Pro Text",sans-serif;
+}
 
 
-    header {
-        text-align: center;
-        background: #141414;
-        text-decoration: none;
-        height: 23px;
-        padding: 10px 24% 10px 24%;
-        font-size: 14px;
-    }
+header {
+    text-align: center;
+    background: #141414;
+    text-decoration: none;
+    height: 23px;
+    padding: 10px 24% 10px 24%;
+    font-size: 14px;
+}
 
-    header .pastoi{
-        padding-left: unset;
-        font-size: 21px;
-    }
+header .pastoi{
+    padding-left: unset;
+    font-size: 21px;
+}
 
-    header div {
-        float: left;
-        padding-left: 6%;
-    }
+header div {
+    float: left;
+    padding-left: 6%;
+}
 
-    a {
-        text-decoration-line: none;
-        color: #d0d0d0;
-    }
+a {
+    text-decoration-line: none;
+    color: #d0d0d0;
+}
 
-    .icone {
-        font-size: 21px;
-    }
+.icone {
+    font-size: 21px;
+}
 
-    a:hover {
-        color: white;
-        transition: 0.5s
-    }
+a:hover {
+    color: white;
+    transition: 0.5s
+}
